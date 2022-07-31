@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to The CR-OS Project
 
-You can use the [editor on GitHub](https://github.com/TheNameOfAnAmatuer/CR-OS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The CR-OS Project Is Made by Me an Indie Developer 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Project Has Not Yet Released as we are still working on it.
 
 ### Markdown
 
