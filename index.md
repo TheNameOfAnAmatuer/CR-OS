@@ -1,4 +1,4 @@
-## Welcome to The CR-OS Project ![logolight](https://user-images.githubusercontent.com/108635729/182006012-ed744a37-86cc-4a7c-a592-89aa7800bd39.png)
+## Welcome to The CR-OS Project ![logo](https://user-images.githubusercontent.com/108635729/182006099-3f8a7d91-1919-431e-bcc7-b12036b249fb.png)
 
 
 ## About Me
