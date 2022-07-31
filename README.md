@@ -1,4 +1,5 @@
-## Welcome to The CR-OS Project
+## Welcome to The CR-OS Project ![logolight](https://user-images.githubusercontent.com/108635729/182006012-ed744a37-86cc-4a7c-a592-89aa7800bd39.png)
+
 
 ## About Me
 The CR-OS Project Is Made by Me an Indie Developer.
